@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gokulkannan.g/Desktop/C & DS/Arrays/Checking if an array is sorted or not/Checking if an array is sorted or not'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _isArraySorted, symObjAddr: 0x0, symBinAddr: 0x100003D10, symSize: 0x88 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _isArraySorted, symObjAddr: 0x0, symBinAddr: 0x100003D10, symSize: 0x88 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x88, symBinAddr: 0x100003D98, symSize: 0x178 }
+...

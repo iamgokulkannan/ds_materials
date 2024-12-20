@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gokulkannan.g/Desktop/C & DS/Prime Factors/Prime Factors'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _PrimeFactorization, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x124 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _PrimeFactorization, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x124 }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x124, symBinAddr: 0x100003F2C, symSize: 0x48 }
+...
